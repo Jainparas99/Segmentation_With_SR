@@ -55,7 +55,7 @@ Segmentation using SAM-Vit
 
 
 
-Setup Instructions
+**Setup Instructions**
 
 git clone https://github.com/yourusername/sam-enhancement.git
 
@@ -69,7 +69,7 @@ from datasets import load_dataset
 
 ds = load_dataset("sxj1215/inaturalist")
 
-**Acknowledgment **
+**Acknowledgment**
 
 This project would not have been possible without the contributions of the open-source community. We gratefully acknowledge the following:
 
