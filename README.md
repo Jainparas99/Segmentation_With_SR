@@ -72,7 +72,11 @@ ds = load_dataset("sxj1215/inaturalist")
 **Acknowledgment **
 
 This project would not have been possible without the contributions of the open-source community. We gratefully acknowledge the following:
+
 	•	Meta AI Research for developing the Segment Anything Model (SAM), a foundation for segmentation tasks.
+ 
 	•	Niels Rogge and Hugging Face for providing SLIM-SAM, an efficient lightweight version of SAM used as a baseline.
+ 
 	•	Hugging Face Datasets for hosting the iNaturalist dataset used in this study.
+ 
 	•	OpenCV and contributors for implementing the DNN Super-Resolution module used to enhance image resolution via the EDSR model.
