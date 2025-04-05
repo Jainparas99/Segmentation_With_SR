@@ -19,9 +19,15 @@ Model Setup
 The model is setup with an SR model as a wrapper class over the SAM model. This will enhance the image before it get input to the model.  
 
 
-Results 
+Baseline Figures
 
 ![alt text](figures/TINYSAM.png)
+
+Segmentation Using Tiny SAM
+
+![alt text]
+
+
 
 
 
