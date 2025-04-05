@@ -25,7 +25,9 @@ Baseline Figures
 
 Segmentation Using Tiny SAM
 
-![alt text]
+![alt text](figures/SAM_Big.png)
+
+Segmentation using SAM-Vit
 
 
 
