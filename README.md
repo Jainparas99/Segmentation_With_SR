@@ -1,8 +1,9 @@
 
 Improving Segementation with Super Resolution
 
--- Author Paras Jain
--- Course Capstone
+Author:- Paras Jain
+A current Masters student in RIT in the field of artificial Intelligence
+Course Capstone
 
 Model Setup
 
